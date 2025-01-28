@@ -18,7 +18,7 @@ This is a responsive landing page built according to Figma design, using BEM met
 [DEMO LINK](https://annbusya.github.io/landing---dia/)
    
 ### Link to the layout:
-[MYBIKE landing](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
+[Dia Landing](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
 
 ### Getting started: 
 1. Recommended version of node v14
